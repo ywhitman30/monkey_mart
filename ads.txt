@@ -144,7 +144,7 @@ loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
 # WGPubmatic
 pubmatic.com, 163164, RESELLER, 5d62403b186f2ace
 
-wgplayer.com, WGA5606012335, DIRECT
+wgplayer.com, WGA5836451708, DIRECT
 
 
 #WGOPERA
